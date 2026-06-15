@@ -1,4 +1,4 @@
-import { WifiConfig } from "../types/qr";
+import type { WifiConfig } from "../types/qr";
 
 interface Props {
   value: WifiConfig;
